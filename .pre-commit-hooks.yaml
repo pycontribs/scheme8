@@ -1,0 +1,8 @@
+---
+- id: scheme8
+  name: scheme8
+  description: scheme8 verifies JSON/YAML syntax
+  language: python
+  pass_filenames: true
+  verbose: true
+  entry: scheme8
