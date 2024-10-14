@@ -9,8 +9,7 @@ import yaml
 
 
 def main():
-    """Scheme8 Linter
-    """
+    """Scheme8 Linter"""
     parser = argparse.ArgumentParser(prog="scheme8")
     parser.add_argument(
         "--version",
